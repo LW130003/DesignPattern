@@ -1,4 +1,4 @@
-package headfirst.designpatterns.strategy;
+package com.livardy.designpatterns.strategy.SimUDuck;
 
 import java.util.ArrayList;
 
