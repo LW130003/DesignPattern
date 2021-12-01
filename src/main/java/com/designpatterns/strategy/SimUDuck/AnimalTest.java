@@ -1,13 +1,7 @@
-package com.livardy.designpatterns.strategy.SimUDuck;
+package com.designpatterns.strategy.SimUDuck;
 import java.util.ArrayList;
-// compile
-// javac C:\Users\LW\IdeaProjects\DesignPatterns\src\main\java\com\livardy\designpatterns\strategy\SimUDuck\AnimalTest.java
-
-// if package is uncomment
-// java -cp C:\Users\LW\IdeaProjects\DesignPatterns\src\main\java\com\livardy\designpatterns\strategy\SimUDuck AnimalTest
-
-// if comment
-// java -cp C:\Users\LW\IdeaProjects\DesignPatterns\src\main\java com.livardy.designpatterns.strategy.SimUDuck.AnimalTest
+// javac src\main\java\com\designpatterns\strategy\SimUDuck\AnimalTest.java
+// java -cp src\main\java com.designpatterns.strategy.SimUDuck.AnimalTest
 
 public class AnimalTest {
  
